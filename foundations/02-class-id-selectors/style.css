@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(231, 167, 177);
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+#one {
+    color: rgb(24, 39, 253);
+    font-size: 36px;
+}
+.cool.cooler {
+    font-size: 24px;
+}
+#another {
+    background-color: rgb(134, 255, 185);
+    font-size: 24px;
+    font-weight: bold;
+}
